@@ -1,0 +1,88 @@
+[
+    {
+        "title":"Java Stack Development",
+        "pic":"https://www.fullstackgurupune.com/storage/blog_icons/3a4b5e6c9a4a040c48ea39732d663257.jpeg",
+        "id":"FSD"
+    },
+    {
+        "title":"MERN Stack Development",
+        "pic":"https://itechnolabs.ca/wp-content/uploads/2022/07/describe-the-mern-stack-itechnolabs.jpg",
+        "id":"FSD"
+    },
+    {
+        "title":"MEAN Stack Development",
+        "pic":"https://www.itbrainy.com/wp-content/uploads/2020/07/MeanStack-training-in-Coimbatore.png",
+        "id":"FSD"
+    },
+    {
+        "title":"Cyber Defense",
+        "pic":"https://www.ecpi.edu/sites/default/files/2%20%282%29.png",
+        "id":"CB"
+    },
+    {
+        "title":"Application Security",
+        "pic":"https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/application-security-four-key-steps-showcase_image-10-a-7778.jpg",
+        "id":"CB"
+    },
+    {
+        "title":"Cloud Computing",
+        "pic":"https://content.kaspersky-labs.com/fm/press-releases/cb/cbdd44fdd24089d769148abdad1b31db/processed/what-is-cloud-security01-q75.jpg",
+        "id":"CB"
+    },
+    {
+        "title":"Ethical Hacker",
+        "pic":"https://training.polytropicservices.com/assets/img/ethical-hacking.jpg",
+        "id":"CB"
+    },
+    {
+        "title":"Machine Learning",
+        "pic":"https://aptronnoida.in/blog/wp-content/uploads/2020/10/machine-learning.jpeg",
+        "id":"DS"
+    },
+    {
+        "title":"Big Data",
+        "pic":"https://www.analyticsinsight.net/wp-content/uploads/2021/12/Four-Vs-of-Big-Data.jpg",
+        "id":"DS"
+    },
+    {
+        "title":"Artificial Intelligence",
+        "pic":"https://bsmedia.business-standard.com/_media/bs/img/article/2023-07/13/full/1689271023-7627.jpg",
+        "id":"DS"
+    },
+    {
+        "title":"Data Engineering",
+        "pic":"https://images.datacamp.com/image/upload/v1646324576/content_screenshot_2017_02_23_14_26_33_1_ecf4f066e8.png",
+        "id":"DS"
+    },
+    {
+        "title":"Graphic Designing",
+        "pic":"https://www.unite.ai/wp-content/uploads/2023/05/AI-Graphic-design-tools-1000x600.png",
+        "id":"CS"
+    },
+    {
+        "title":"Fashion Designing",
+        "pic":"https://www.archedu.org/blog/wp-content/uploads/2022/07/arch-blog.jpg",
+        "id":"CS"
+    },
+    {
+        "title":"Photography",
+        "pic":"https://images.adsttc.com/media/images/587a/aa39/e58e/cea3/7600/06d5/large_jpg/lost-places-1950246_1280.jpg?1484433972",
+        "id":"CS"
+    },
+    {
+        "title":"Digital Marketing",
+        "pic":"https://mohalischoolofdigitalmarketing.com/wp-content/uploads/2023/06/Online-Courses-1024x467-1.jpg",
+        "id":"CS"
+    },
+    {
+        "title":"Fine Arts",
+        "pic":"https://hobbyworkspace.in/wp-content/uploads/2016/10/FA-copy-scaled-1.jpg",
+        "id":"CS"
+    },
+    {
+        "title":"Architecture",
+        "pic":"https://archipreneur.com/wp-content/uploads/2018/09/thenorthparker-1090x690.jpg",
+        "id":"CS"
+    }
+    
+]
