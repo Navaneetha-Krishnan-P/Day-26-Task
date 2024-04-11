@@ -8,10 +8,10 @@ export const CB = () => {
             if(info.id==="CB")
            return(
              <div className="cardcontainer">
-             <div className="card" style={{width: "25rem"}}>
+             <div className="card" style={{width: "20rem"}}>
              <img src={info.pic} className="card-img-top" alt="..."/>
              <div className="card-body">
-               <h4 className="card-text">{info.title}</h4>
+               <h5 className="card-text">{info.title}</h5>
              </div>
            </div>
            </div>
